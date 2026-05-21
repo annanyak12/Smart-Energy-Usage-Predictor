@@ -61,39 +61,53 @@ Install the required libraries:
 ```bash
 pip install pandas numpy scikit-learn matplotlib streamlit joblib
 ```
-##Running the Project
-Run the Streamlit Dashboard
-streamlit run dashboard_final.py
-Google Colab Deployment
+---
+
+## Running the Project
+- Run the Streamlit Dashboard
+- streamlit run dashboard_final.py
+- Google Colab Deployment
 
 The project was developed in Google Colab and deployed using LocalTunnel for public Streamlit access.
 
-##Generated Files
-energy_model.pkl — Trained machine learning pipeline
-final_processed_data.csv — Processed dataset
-model_results.csv — Model evaluation results
-alerts.csv — Detected anomaly alerts
+## Generated Files
 
-##Project Structure
+- `energy_model.pkl` — Trained machine learning pipeline  
+- `final_processed_data.csv` — Processed dataset  
+- `model_results.csv` — Model evaluation results  
+- `alerts.csv` — Detected anomaly alerts  
+
+---
+
+## Project Structure
+
+```text
 energy-dashboard/
-│──AI_Project.ipynb
 │── dashboard_final.py
 │── energy_model.pkl
 │── final_processed_data.csv
 │── model_results.csv
 │── alerts.csv
+│── notebook.ipynb
 │── README.md
+```
 
-##Dashboard Capabilities
-Visualize energy consumption trends
-Compare model performance
-Detect abnormal energy spikes
-Analyze appliance usage
-Display smart recommendations
-Forecast future energy consumption
+---
 
-##Future Improvements
-Real-time IoT sensor integration
-Advanced time-series forecasting
-Cloud deployment
-Explainable AI integration
+## Dashboard Capabilities
+
+- Visualize energy consumption trends  
+- Compare model performance  
+- Detect abnormal energy spikes  
+- Analyze appliance usage  
+- Display smart recommendations  
+- Forecast future energy consumption  
+
+---
+
+## Future Improvements
+
+- Real-time IoT sensor integration  
+- Advanced time-series forecasting  
+- Cloud deployment  
+- Explainable AI integration  
