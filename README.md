@@ -111,3 +111,18 @@ energy-dashboard/
 - Advanced time-series forecasting  
 - Cloud deployment  
 - Explainable AI integration  
+
+---
+
+## Collaborators
+
+- Annanya Kesharwani  
+- Madhuri Wagh  
+- Nishant Velhankar
+- Veda Mall
+
+GitHub Profiles:
+- [@annanyak12](https://github.com/annanyak12)
+- [@madhuriwagh1105](https://github.com/madhuriwagh1105)
+- [@nishantvelhankar](https://github.com/nishantvelhankar)
+- [@VM-221b](https://github.com/VM-221b)
